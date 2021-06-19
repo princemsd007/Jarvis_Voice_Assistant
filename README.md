@@ -160,5 +160,3 @@ pip install pyjokes
 ## 🥺 License
 
 You are Free to Use the Above Code for Educational Purpose.
-
-[![forthebadge Prince-Singh-Yadav]
