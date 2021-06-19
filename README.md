@@ -7,13 +7,7 @@
 
 - To be Honest, it's Not as **Intelligent** as in the movie, but it can do a lot of cool things and Automate your daily tasks you do on your personal computers.
 
-<p align="center">
-  <img src="/images/JARVIS_AI.jpg" width="700" alt="JARVIS-AI">
-</p>
 
-## 📹 Video Demonstration
-
-<p align="center"><a href="https://vimeo.com/562670975">LIVE DEMO LINK</a></p>
 
 ## 🤔 Required Packages
 
@@ -166,3 +160,5 @@ pip install pyjokes
 ## 🥺 License
 
 You are Free to Use the Above Code for Educational Purpose.
+
+[![forthebadge Prince-Singh-Yadav]
